@@ -21,7 +21,7 @@ This repository is created to organize and share **Hibernate lecture materials**
 
 ## Technologies Used
 - Java 8+
-- Hibernate ORM 5.x
+- Hibernate ORM Versions 3.x 4.x 5.x 6.x 
 - MySQL / PostgreSQL (or any relational database)
 - Maven / Gradle for project management
 
